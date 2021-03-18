@@ -1,7 +1,8 @@
 {
   "web.basic.hello-world": {
     "human_readable_name": "Web Basic Hello World",
-    "repo_url": "https://github.com/andrewzlchen/basic_app",
+    "repo_owner": "andrewzlchen",
+    "repo_name": "basic_app",
     "backend_path": "backend",
     "client_path": "reactjs",
     "metadata_path": "reactjs/src/utils/",
