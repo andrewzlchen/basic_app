@@ -1,6 +1,6 @@
 {
   "web.basic.hello-world": {
-    "human_readable_name": "Web Basic Hello World",
+    "name": "Web Basic Hello World",
     "repo_owner": "andrewzlchen",
     "repo_name": "basic_app",
     "backend_path": "backend",
